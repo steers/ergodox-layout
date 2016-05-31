@@ -307,10 +307,6 @@
                 "0": {
                     "key": "LCTRL",
                     "label": "LCTRL"
-                },
-                "2": {
-                    "key": "CAPSLOCK",
-                    "label": "CAPSLK"
                 }
             }
         },
@@ -483,6 +479,14 @@
                 "0": {
                     "key": "DELETE",
                     "label": "DEL"
+                },
+                "1": {
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
+                },
+                "2": {
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 }
             }
         },
@@ -594,6 +598,10 @@
                 "1": {
                     "key": "LCK1",
                     "label": "LOCK-1"
+                },
+                "2": {
+                    "key": "CAPSLOCK",
+                    "label": "CAPSLK"
                 }
             }
         },
