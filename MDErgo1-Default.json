@@ -335,8 +335,8 @@
                     "label": "HOME"
                 },
                 "1": {
-                    "key": "CONS:PLAY",
-                    "label": "PLAY"
+                    "key": "CONS:PAUSEPLAY",
+                    "label": "PL\/PS"
                 }
             }
         },
@@ -348,8 +348,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "MINUS",
-                    "label": "-"
+                    "key": "BACKSLASH",
+                    "label": "\\"
                 }
             }
         },
@@ -809,8 +809,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSLASH",
-                    "label": "\\"
+                    "key": "MINUS",
+                    "label": "-"
                 },
                 "1": {
                     "key": "F11",
