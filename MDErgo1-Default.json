@@ -465,16 +465,16 @@
             "h": 8,
             "layers": {
                 "0": {
+                    "key": "DELETE",
+                    "label": "DEL"
+                },
+                "1": {
                     "key": "BACKSPACE",
                     "label": "BKSP"
                 },
-                "1": {
-                    "key": "DELETE",
-                    "label": "DEL"
-                },
                 "2": {
-                    "key": "DELETE",
-                    "label": "DEL"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 }
             }
         },
