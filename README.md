@@ -18,6 +18,7 @@ left_kiibohd.dfu.bin  right_kiibohd.dfu.bin
 ```
 
 Disconnect both halves of the keyboard, then for each half in turn:
+
 1. Connect the keyboard half directly via USB3 A-B
 1. Hit the flash button on the keyboard (may need a pencil/paperclip)
 1. `sudo dfu-util -D ${bin}`
